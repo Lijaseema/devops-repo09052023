@@ -1,5 +1,6 @@
 import somemodule
 class Demo{
-print("Hello Edureka")
+print("Hello Edureka"
+Some codes are added
 }
 
